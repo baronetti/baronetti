@@ -29,7 +29,7 @@ I'm a first-year Computer Engineering student at the University of Padua with a 
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-31C48D?style=for-the-badge)
 
-### Fun Fact:
+### 💡 Fun Fact:
 My journey in coding started way back in childhood. I've been breaking (and fixing) things since I was small!
 
 ### 📫 How to reach me:
