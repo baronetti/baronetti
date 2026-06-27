@@ -30,7 +30,7 @@ I'm a first-year Computer Engineering student at the University of Padua with a 
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-31C48D?style=for-the-badge)
 
 ### Fun Fact:
-My journey in coding started way back in childhood—I've been breaking (and fixing) things since I was small!
+My journey in coding started way back in childhood. I've been breaking (and fixing) things since I was small!
 
 ### 📫 How to reach me:
 - **LinkedIn:** [https://www.linkedin.com/in/francesco-baroni-b398713b1/]
