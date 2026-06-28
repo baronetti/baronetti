@@ -34,4 +34,4 @@ My journey in coding started way back in childhood. I've been breaking (and fixi
 
 ### 📫 How to reach me:
 - **LinkedIn:** [https://www.linkedin.com/in/francesco-baroni-b398713b1/]
-- **Email:** [contact.baronihub.com]
+- **Email:** [contact@baronihub.com]
